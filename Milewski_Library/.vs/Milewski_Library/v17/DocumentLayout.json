@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|c:\\users\\user\\downloads\\milewski_library\\milewski_library\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|c:\\users\\user\\downloads\\milewski_library\\milewski_library\\recordaddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|solutionrelative:recordaddwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|c:\\users\\user\\downloads\\milewski_library\\milewski_library\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|c:\\users\\user\\downloads\\milewski_library\\milewski_library\\recordeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|solutionrelative:recordeditwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|c:\\users\\user\\downloads\\milewski_library\\milewski_library\\recordaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|solutionrelative:recordaddwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|c:\\users\\user\\downloads\\milewski_library\\milewski_library\\recordeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|solutionrelative:recordeditwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|c:\\users\\user\\downloads\\milewski_library\\milewski_library\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|c:\\users\\user\\downloads\\milewski_library\\milewski_library\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20B07FD1-E083-4A4F-A647-A862E35C98F5}|Milewski_Library.csproj|solutionrelative:record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T11:06:10.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecordAddWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\RecordAddWindow.xaml",
+              "RelativeDocumentMoniker": "RecordAddWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\RecordAddWindow.xaml",
+              "RelativeToolTip": "RecordAddWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T11:02:32.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecordEditWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\RecordEditWindow.xaml",
+              "RelativeDocumentMoniker": "RecordEditWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\RecordEditWindow.xaml",
+              "RelativeToolTip": "RecordEditWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T10:59:25.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecordAddWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\RecordAddWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecordAddWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\RecordAddWindow.xaml.cs",
+              "RelativeToolTip": "RecordAddWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:54:27.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecordEditWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\RecordEditWindow.xaml.cs",
+              "RelativeDocumentMoniker": "RecordEditWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\RecordEditWindow.xaml.cs",
+              "RelativeToolTip": "RecordEditWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:51:00.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:50:03.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\Record.cs",
+              "RelativeDocumentMoniker": "Record.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\Record.cs",
+              "RelativeToolTip": "Record.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA3wCAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:47:39.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\Milewski_Library\\Milewski_Library\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:47:39.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

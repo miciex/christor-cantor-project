@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Milewski_Library/1.0.0": {
+        "runtime": {
+          "Milewski_Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Milewski_Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

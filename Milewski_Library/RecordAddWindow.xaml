@@ -1,0 +1,23 @@
+﻿<Window x:Class="Wolska_BookManager.BookAddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wolska_BookManager"
+        mc:Ignorable="d"
+        Title="Add Record" Height="300" Width="400">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBox x:Name="authorTextBox" Margin="5" Text="Autor"/>
+            <TextBox x:Name="titleTextBox" Margin="5" Text="Tytuł"/>
+            <TextBox x:Name="genreTextBox" Margin="5" Text="Gatunek"/>
+            <ComboBox x:Name="typeComboBox" Margin="5">
+                <ComboBoxItem Content="Book"/>
+                <ComboBoxItem Content="Film"/>
+            </ComboBox>
+            <TextBox x:Name="yearTextBox" Margin="5" Text="Rok wydania"/>
+            <TextBlock x:Name="errorMessage" Text="" Foreground="Red" Margin="5"/>
+            <Button Content="Add Book" HorizontalAlignment="Center" Click="AddBook_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="Wolska_BookManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wolska_BookManager"
+        mc:Ignorable="d"
+        Title="Library" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="Plik">
+                <MenuItem Header="Eksportuj do TXT" Click="ExportToTXT_Click"/>
+                <MenuItem Header="Eksportuj do CSV" Click="ExportToCSV_Click"/>
+            </MenuItem>
+        </Menu>
+        <DataGrid x:Name="bookDataGrid" Grid.Row ="1" AutoGenerateColumns="False" Margin="10,10,10,50" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Autor" Binding="{Binding Author}"/>
+                <DataGridTextColumn Header="Tytuł" Binding="{Binding Title}"/>
+                <DataGridTextColumn Header="Gatunek" Binding="{Binding Genre}"/>
+                <DataGridTextColumn Header="Typ" Binding="{Binding Type}"/>
+                <DataGridTextColumn Header="Rok wydania" Binding="{Binding Year}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <ToolBar Height="30" VerticalAlignment="Bottom" Grid.Row="2">
+            <Button Content="Dodaj record" Click="AddBook_Click"/>
+            <Button Content="Edytuj record" Click="EditBook_Click"/>
+            <Button Content="Usuń record" Click="DeleteBook_Click"/>
+        </ToolBar>
+    </Grid>
+</Window>
